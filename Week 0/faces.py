@@ -4,6 +4,7 @@ def faces(text):
 
 
 text = input("text: ")
-text_to_emoji = faces(text)
-print(text_to_emoji)
+text = faces(text)
+print(text)
 
+#completed assingment
