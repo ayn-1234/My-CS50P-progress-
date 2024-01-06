@@ -14,6 +14,7 @@ def listMaker():
                 groceryList[item] = 1
 
         except EOFError:
+            print()
             break
 
     for key in sorted(groceryList):
