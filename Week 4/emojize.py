@@ -6,3 +6,6 @@ def main():
     print(f"Output: {emojize}")
 
 main()
+
+#Completed Assingment
+#Alhamdulliah
