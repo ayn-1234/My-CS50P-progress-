@@ -23,3 +23,6 @@ def test_gauge():
     assert gauge(98) == f"{98}%"
     assert gauge(100) == "F"
     assert gauge(99) == "F"
+
+#Completed Assingment
+#Alhamdulliah
