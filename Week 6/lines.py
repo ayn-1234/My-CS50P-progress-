@@ -34,3 +34,6 @@ def count_lines(file_name):
 
 if __name__ == "__main__":
     main()
+
+#Completed Assingment
+#Alhamdulliah
