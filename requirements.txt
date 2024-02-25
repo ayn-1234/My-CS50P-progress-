@@ -1,4 +1,0 @@
-pytest
-tabulate
-validator-collection
-validators
