@@ -4,8 +4,8 @@
 
 #### Verfied link of haravard certificate: [CS50 Certificate](https://certificates.cs50.io/df8c5541-1ede-4213-a8b6-f31a953de9b4.pdf?size=letter)
 #### Final project:
-     1. Name: CS50 ID MANEGER
-     2. Video Demo: [Video Demo](https://www.youtube.com/watch?v=EJIkcgb9UsU&ab_channel=AyanAliRudro)
+1. Name: CS50 ID MANEGER     
+2. Video Demo: [Video Demo](https://www.youtube.com/watch?v=EJIkcgb9UsU&ab_channel=AyanAliRudro)
 
 ***Alhamdulliah*** i have Completed `CS50P` course and i have got my certificate.
 
